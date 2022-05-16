@@ -1,0 +1,7 @@
+{
+  "name": "Small Miracles",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
